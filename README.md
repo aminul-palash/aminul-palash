@@ -11,7 +11,7 @@
 
 <p align="center">
   <em>
-    This is ME, Aminul Haque Palash, graduated from <a href="https://www.acetamritsar.ac.in/"> <b>Chittagong University of Engineering and Technology</b>, Chittagong, Bangladesh</a>. <br>
+    This is ME, Aminul Haque Palash, graduated from <a href="https://www.cuet.ac.bd/"> <b>Chittagong University of Engineering and Technology</b>, Chittagong, Bangladesh</a>. <br>
    
 </p>
 
