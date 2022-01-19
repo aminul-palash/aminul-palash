@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Aminul Haque Palash</h1>
-<h3 align="center">Artificial Intelligence Engineer | Deep Learning | Computer Vision | Generative models</h3>
+<h3 align="center">Artificial Intelligence | Deep Learning | Computer Vision | Generative models</h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/aminulpalash" target="blank"><img align="center" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" height="40" width="40" /></a>
