@@ -22,7 +22,7 @@
 - 💬 Ask me about data science, machine learing and deep learning ...
 - 📫 How to reach me: aminulpalash506@gmail.com ...
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aminul-palash&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aminul-palash&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aminul-palash)](https://github.com/anuraghazra/github-readme-stats)
-  
+   -->
