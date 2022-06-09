@@ -1,13 +1,16 @@
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Aminul Haque Palash</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="28">, I'm Aminul Haque Palash</h1>
 <h3 align="center">Artificial Intelligence | Deep Learning | Computer Vision | Generative models</h3>
 
+
+
+
 <p align="center">
-<a href="https://www.linkedin.com/in/aminulpalash" target="blank"><img align="center" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" height="40" width="40" /></a>
-
+    <a href="https://aminul-palash.github.io/"><img target="_blank" alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=koding&logoColor=Green" /></a>
+    <a href="https://www.linkedin.com/in/aminulpalash"><img target="_blank" alt="linkedin" title="Find me on Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://github.com/aminul-palash"><img target="_blank" alt="followers" title="Find me on Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+    <a href="mailto:aminulpalash506@gmail.com"><img target="_blank" alt="followers" title="Find me on Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-</p>
-
 
 <p align="center">
   <em>
